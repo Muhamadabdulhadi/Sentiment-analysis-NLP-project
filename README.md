@@ -51,7 +51,9 @@ The project includes a Streamlit web application where users can input their own
 ## ⚙️ Installation
 
 Clone the repository:
-# still need to add, dont FORGET HADIIIIIIIIIIIIIII
+git clone https://github.com/Muhamadabdulhadi/sentiment-analysis.git
+
+cd sentiment-analysis
 
 Install dependencies:
 - pip install -r requirements.txt
@@ -81,4 +83,5 @@ Run the app:
 ---
 
 ## 👨‍💻 Author
+
 Muhamad Abdul Hadi
