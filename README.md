@@ -51,7 +51,7 @@ The project includes a Streamlit web application where users can input their own
 ## ⚙️ Installation
 
 Clone the repository:
-git clone https://github.com/Muhamadabdulhadi/sentiment-analysis.git
+git clone https://github.com/Muhamadabdulhadi/Sentiment-analysis-NLP-project.git
 
 cd sentiment-analysis
 
@@ -85,3 +85,4 @@ Run the app:
 ## 👨‍💻 Author
 
 Muhamad Abdul Hadi
+
